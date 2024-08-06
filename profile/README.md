@@ -261,3 +261,5 @@
 
 ### [🛠️SAFE-T 프로젝트 레포지토리 링크](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)
 ***
+
+![팀 소개 페이지2](meong_signal/static/readme/team2.png)
